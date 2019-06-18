@@ -1,4 +1,4 @@
-# 2019_Btc_narrative_machine
+
 <img src="mod_5_project_pitch.001.png" />
 <img src="mod_5_project_pitch.002.png" />
 <img src="mod_5_project_pitch.003.png" />
